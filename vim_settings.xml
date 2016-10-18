@@ -1,0 +1,192 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/IdeaProjects/prj01_new/src/jsf/editControler.java" timestamp="1474723701723">
+        <mark key="[" line="5" column="25" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/prj01_new/src/br/upis/ext/javaweb/loja/jsf/GlobalController.java" timestamp="1474736086556">
+        <mark key="[" line="22" column="4" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/prj01_new/web/WEB-INF/edit.xhtml" timestamp="1474724957753">
+        <mark key="[" line="22" column="1" />
+        <mark key="]" line="22" column="1" />
+        <mark key="^" line="20" column="39" />
+        <mark key="." line="22" column="1" />
+      </file>
+      <file name="/a.dummy" timestamp="1474724833055">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/prj01_new/src/jsf/GlobalController.java" timestamp="1474721642364">
+        <mark key="[" line="12" column="13" />
+      </file>
+      <file name="/a.sql" timestamp="1474720827937">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/prj01_new/src/br/upis/ext/javaweb/loja/jsf/EditController.java" timestamp="1474736738925">
+        <mark key="[" line="43" column="5" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/Lambda/src/br/upis/ext/javaweb/lambda/Dados.java" timestamp="1474739765799">
+        <mark key="[" line="20" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/prj01_new/src/data/ClienteCampoEnum.java" timestamp="1474721611647">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/prj01_new/src/br/upis/ext/javaweb/loja/rest/RestGridData.java" timestamp="1474721570629">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="/dummy.sql" timestamp="1474720907183">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/prj01_new/src/br/upis/ext/javaweb/loja/rest/RestCliente.java" timestamp="1474726148765">
+        <mark key="[" line="50" column="25" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1474735456418">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/Lambda/src/br/upis/ext/javaweb/lambda/Confidencial.java" timestamp="1474739512559">
+        <mark key="[" line="14" column="30" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/Artificial_Intelligence/src/br/upis/AI/Grafo.java" timestamp="1476817602858">
+        <mark key="[" line="80" column="41" />
+        <mark key="]" line="80" column="41" />
+        <mark key="." line="80" column="41" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/prj01_new/web/WEB-INF/web.xml" timestamp="1474726088797">
+        <mark key="[" line="4" column="22" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/prj01_new/src/jsf/editController.java" timestamp="1474723713892">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/prj01_new/src/br/upis/ext/javaweb/loja/model/Pedido.java" timestamp="1474721510649">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/prj01_new/src/dao/LojaDAO.java" timestamp="1474736252422">
+        <mark key="[" line="97" column="8" />
+        <mark key="]" line="97" column="8" />
+        <mark key="." line="97" column="8" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/prj01_new/src/data/ClienteData.java" timestamp="1474735676758">
+        <mark key="[" line="10" column="15" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/Artificial_Intelligence/src/br/upis/AI/Caminho.java" timestamp="1476809527840">
+        <mark key="[" line="6" column="33" />
+        <mark key="]" line="6" column="33" />
+        <mark key="." line="6" column="33" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/prj01_new/web/index.xhtml" timestamp="1474736721786">
+        <mark key="[" line="32" column="54" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/Artificial_Intelligence/src/br/upis/AI/No.java" timestamp="1476803798823">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/prj01_new/src/br/upis/ext/javaweb/loja/rest/RestPedidos.java" timestamp="1474721583507">
+        <mark key="[" line="10" column="20" />
+        <mark key="]" line="10" column="21" />
+        <mark key="." line="10" column="21" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/prj01_new/src/jsf/EditController.java" timestamp="1474735513341">
+        <mark key="[" line="27" column="30" />
+        <mark key="]" line="18" column="3" />
+        <mark key="." line="18" column="3" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/535393c7-ef51-440c-8e1f-2e6e60964c4d/console.sql" timestamp="1474723335274">
+        <mark key="[" line="0" column="67" />
+        <mark key="]" line="0" column="67" />
+        <mark key="." line="0" column="67" />
+      </file>
+      <file name="/fragment.java" timestamp="1476807545760">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/Lambda/src/br/upis/ext/javaweb/lambda/Main.java" timestamp="1474739915089">
+        <mark key="[" line="12" column="3" />
+      </file>
+    </filemarks>
+    <jumps />
+    <registers>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICAgICAgQXJlc3RhIHl0ID0gZy5hZGRBcmVzdGEoeSwgdCk7</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text encoding="base64">CiAgICAgICAgQXJlc3RhIHl0ID0gZy5hZGRBcmVzdGEoeSwgdCk7</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">Cn1wdWJsaWMgY2xhc3MgR3JhZm8gew==</text>
+      </register>
+      <register name="3" type="4">
+        <text>/**
+ * Created by aquar on 18/10/2016.
+ */</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">Ci8qKgogKiBDcmVhdGVkIGJ5IGFxdWFyIG9uIDE4LzEwLzIwMTYuCiAqLw==</text>
+      </register>
+      <register name="5" type="4">
+        <text>/**
+ * Created by aquar on 18/10/2016.
+ */</text>
+      </register>
+      <register name="6" type="4">
+        <text>Cliente cliente = em.createNamedQuery(&quot;Cliente.porCpf&quot;,
+                            Cliente.class)
+                .setParameter(&quot;cpf&quot;, cpf)
+                .getSingleResult();</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">CjwhLS08Zjp2aWV3PgogICAgPGg6b3V0cHV0TGFiZWwgdmFsdWU9IiN7Z2xvYmFsQ29udHJvbGxlci50b2Rvc0NsaWVudGVzLnNpemUoKX0iLz4KPC9mOnZpZXc+IC0tPg==</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBjcmlhQ2xpZW50ZShDbGllbnRlIHJvdykgewogICAgfQ==</text>
+      </register>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgCjwvZjp2aWV3Pg==</text>
+      </register>
+      <register name="-" type="4">
+        <text>No no</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
