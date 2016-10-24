@@ -137,11 +137,9 @@ public class Principal {
 
         double valor = 0;
         int fitness = 0;
-        No aleloUsadoPesquisa = null;
 
         List<Character> historico = new ArrayList<Character>();
-        //historico = new ArrayList<Character>();
-        //historico.clear();
+
 
         for (int i = 0; i < no.size(); i++) {
             aleloAtual = no.get(i);
@@ -160,45 +158,13 @@ public class Principal {
                 }
 
                 if (aleloAtual.getLigacaoes().get(aleloAtual.getLigacaoes().size() - 1).equals(ligacao)) { ///Meio grande, mas... verifica se a ligacao que está em teste é a última do alelo
-                    //Se for, significa que o alelo atual não possui ligação com o próximo alelo do cromosso, neste ponto vou avançar nos aos nós ligados à este até achar um alelo que ligue(só os nós ligados diretos)
-                    /*valor += ligacao.getValor();
-                    fitness++;
-                    historico.add(aleloAtual.getNome());
-
-                    No noProximo;
-                    double menorValor = 0.0;
-                    int menorFitness = 0;
-
-                    //Vou pesquisar se o próximo nó do cromossomo está em algum nó ligado ao nó atual
-                    for (Ligacao ligacao1 : aleloAtual.getLigacaoes()) {
-                        noProximo = pesquisa(no, ligacao1.getProximoNo()); //Obtém o nó que está na ligação do atual
-                        if (noProximo == null)
-                            break;
-
-                        for (Ligacao ligacaoPesquisado : noProximo.getLigacaoes()) {
-                            if (ligacaoPesquisado.getProximoNo() == aleloProximo && (ligacaoPesquisado.getValor() < menorValor || menorValor == 0.0)) {
-                                menorValor = ligacaoPesquisado.getValor();
-                                menorFitness = 1;
-                                aleloUsadoPesquisa = noProximo;
-                            }
-                        }
-                    }
-
-                    if (menorFitness == 0) {
-                        falha = true;
-                        break;
-                    } else {
-                        valor += menorValor;
-                        fitness += menorFitness;
-                        historico.add(aleloUsadoPesquisa.getNome());
-                    }*/
-                    falha = true; //Algum alelo desse cromossomo não tem ligação com o próximo
+                    falha = true; //Algum alelo desse cromossomo não tem ligação com o próximo, ou seja a sequência é inválida
                     break;
                 }
             }
         }
 
-        if (!falha) {
+        if (!falha) { //Se o cromossomo é funcional então é escrito no log e registrado na lista de desempenho
             historico.add(no.get(0).getNome());
 
             System.out.println("\n" + no);
@@ -235,57 +201,6 @@ public class Principal {
         }
         return null;
     }
-
-    /*private static void crossover(List<No> primeiro, List<No> segundo){
-        int alelos = primeiro.size() - 1;//O índice do array começa em zero, temos que subtrair 1 do tamanho do array para que a variável seja usada como índice
-        int quant = alelos;//quant é responsável pela carga dos números na lista
-        int aleloAleatorio, valorAleatorio;
-
-        //lista guardará os números que representam os alelos
-        List<Integer> lista = new ArrayList<>();
-        //Esse while carrega a lista com os números dos alelos, em sequência
-        while (quant >= 0){
-            lista.add(quant--);
-        }
-
-        Collections.shuffle(lista); //Essa função embaralhará nossa lista, assim os números serão aleatórios e não repetidos.
-
-        for(;alelos > 0 ; alelos--) {//Começa a partir do último alelo
-            aleloAleatorio = lista.get(alelos);
-            valorAleatorio = (int) (Math.random() * 10); //Essa fórmula irá gerar um número aleatório entre 0 e 9
-
-            if(valorAleatorio <= 4){
-                primeiro.set(alelos, segundo.get(aleloAleatorio));
-            }
-            if(valorAleatorio >= 5){
-                segundo.set(alelos, primeiro.get(aleloAleatorio));
-            }
-        }
-    }*/
-
-    /*private static void crossover(List<No> primeiro, List<No> segundo){
-        //repetiçao primeiro.size()
-        int alelos = primeiro.size() - 1;//O índice do array começa em zero, temos que subtrair 1 do tamanho do array para que a variável seja usada como índice
-        int valorAleatorio;
-        int aleloAleatorio;
-
-        List<Integer> lista = Arrays.asList(0, 1, 2, 3, 4, 5, 6, 7, 8, 9);
-        Collections.shuffle(lista);
-
-        for(;alelos > 0 ; alelos--) {//Começa a partir do último alelo
-            valorAleatorio = (int) (Math.random() * 30); //Essa fórmula irá gerar um número aleatório entre 0 e 29
-            aleloAleatorio = lista.get(alelos);
-
-            //Se o valor estiver entre 0 e 9 (10 números possíveis), o primeiro cromossomo receberá o alelo correspondente do segundo
-            if(valorAleatorio < 10) {
-                primeiro.set(alelos, segundo.get(aleloAleatorio));
-            }//Se o valor estiver entre 20 e 29 (10 números possíveis), o segundo cromossomo receberá o alelo correspondente do primeiro
-            if (valorAleatorio  > 19){
-                segundo.set(alelos, primeiro.get(aleloAleatorio));
-            }//Se o valor estiver entre 10 e 19 (10 números possíveis), não haverá mudança nesse alelo
-        }
-    }*/
-
 
     //E que os jogos comecem, HAHAHAHA!
 }

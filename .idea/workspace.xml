@@ -39,13 +39,13 @@
       <file leaf-file-name="Principal.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/br/AG/classes/Principal.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="55" column="8" selection-start-line="55" selection-start-column="8" selection-end-line="55" selection-end-column="8" />
+            <state relative-caret-position="620">
+              <caret line="169" column="42" selection-start-line="169" selection-start-column="42" selection-end-line="169" selection-end-column="42" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#382#394#0" expanded="true" />
                 <element signature="e#451#463#0" expanded="true" />
-                <element signature="e#5030#5041#0" expanded="true" />
+                <element signature="e#4992#5003#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -111,6 +111,10 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
       <projects_view />
@@ -146,7 +150,7 @@
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -315,7 +319,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
@@ -836,12 +840,12 @@
       <workItem from="1477096515224" duration="5802000" />
       <workItem from="1477141020390" duration="3242000" />
       <workItem from="1477154231744" duration="20233000" />
-      <workItem from="1477227800339" duration="24596000" />
+      <workItem from="1477227800339" duration="25900000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="62450000" />
+    <option name="totallyTimeSpent" value="63754000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -889,18 +893,6 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/br/AG/classes/Principal.java</url>
-          <line>267</line>
-          <properties />
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/br/AG/classes/Principal.java</url>
-          <line>177</line>
-          <properties />
-          <option name="timeStamp" value="8" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/br/AG/excecao/Excecao.java</url>
           <line>14</line>
           <properties />
@@ -936,7 +928,7 @@
             <element signature="imports" expanded="true" />
             <element signature="e#382#394#0" expanded="true" />
             <element signature="e#451#463#0" expanded="true" />
-            <element signature="e#5030#5041#0" expanded="true" />
+            <element signature="e#4992#5003#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1011,7 +1003,7 @@
             <element signature="imports" expanded="true" />
             <element signature="e#382#394#0" expanded="true" />
             <element signature="e#451#463#0" expanded="true" />
-            <element signature="e#5030#5041#0" expanded="true" />
+            <element signature="e#4992#5003#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1058,7 +1050,7 @@
             <element signature="imports" expanded="true" />
             <element signature="e#382#394#0" expanded="true" />
             <element signature="e#451#463#0" expanded="true" />
-            <element signature="e#5030#5041#0" expanded="true" />
+            <element signature="e#4992#5003#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1105,7 +1097,7 @@
             <element signature="imports" expanded="true" />
             <element signature="e#382#394#0" expanded="true" />
             <element signature="e#451#463#0" expanded="true" />
-            <element signature="e#5030#5041#0" expanded="true" />
+            <element signature="e#4992#5003#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1152,7 +1144,7 @@
             <element signature="imports" expanded="true" />
             <element signature="e#382#394#0" expanded="true" />
             <element signature="e#451#463#0" expanded="true" />
-            <element signature="e#5030#5041#0" expanded="true" />
+            <element signature="e#4992#5003#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1301,13 +1293,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/br/AG/classes/Principal.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="55" column="8" selection-start-line="55" selection-start-column="8" selection-end-line="55" selection-end-column="8" />
+        <state relative-caret-position="620">
+          <caret line="169" column="42" selection-start-line="169" selection-start-column="42" selection-end-line="169" selection-end-column="42" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#382#394#0" expanded="true" />
             <element signature="e#451#463#0" expanded="true" />
-            <element signature="e#5030#5041#0" expanded="true" />
+            <element signature="e#4992#5003#0" expanded="true" />
           </folding>
         </state>
       </provider>
